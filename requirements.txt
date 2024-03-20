@@ -1,0 +1,4 @@
+psycopg2==2.9.9
+rottentomatoes-python==0.6.5
+boxoffice-api==1.2
+python-dotenv==1.0.1
